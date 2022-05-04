@@ -18,7 +18,7 @@ object RDDDemo09_Cache_Persist{
 
     //TODO 1.source/加载数据/创建RDD
     //RDD[一行行的数据]
-    val lines: RDD[String] = sc.textFile("data/input/words.txt")
+    val lines: RDD[String] = sc.textFile("data/word.txt")
 
     //TODO 2.transformation
     //RDD[(单词, 数量)]

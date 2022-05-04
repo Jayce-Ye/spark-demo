@@ -16,7 +16,7 @@ object RDDDemo03_PartitionOperation {
     sc.setLogLevel("WARN")
 
     //TODO 1.source/加载数据/创建RDD
-    val lines: RDD[String] = sc.textFile("data/input/words.txt")
+    val lines: RDD[String] = sc.textFile("data/word.txt")
 
     //TODO 2.transformation
     val result: RDD[(String, Int)] = lines.filter(StringUtils.isNoneBlank(_))
