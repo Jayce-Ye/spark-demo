@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad066d18-5cf9-41ad-a24b-4968d3aee1df" name="Default Changelist" comment="修改版本错误">
+      <change afterPath="$PROJECT_DIR$/ckp/.checkpoint-1609837190000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/.checkpoint-1609837195000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/.checkpoint-1609837200000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/.checkpoint-1609837205000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/.checkpoint-1609837210000.bk.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/.checkpoint-1609837210000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/.checkpoint-1609837215000.bk.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/.checkpoint-1609837215000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/.checkpoint-1609837220000.bk.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/.checkpoint-1609837220000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/._partitioner.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/.part-00001.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/.part-00002.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/.part-00003.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/.part-00004.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/.part-00005.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/.part-00006.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/.part-00007.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/_partitioner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/part-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/part-00002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/part-00003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/part-00004" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/part-00005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/part-00006" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-38/part-00007" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/._partitioner.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/.part-00001.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/.part-00002.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/.part-00003.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/.part-00004.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/.part-00005.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/.part-00006.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/.part-00007.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/_partitioner" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/part-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/part-00002" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/part-00003" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/part-00004" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/part-00005" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/part-00006" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/c20d17bc-b465-4acd-ac16-7b7ff7dec106/rdd-53/part-00007" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/checkpoint-1609837190000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/checkpoint-1609837195000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/checkpoint-1609837200000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/checkpoint-1609837205000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/checkpoint-1609837210000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/checkpoint-1609837210000.bk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/checkpoint-1609837215000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/checkpoint-1609837215000.bk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/checkpoint-1609837220000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/checkpoint-1609837220000.bk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/receivedBlockMetadata/log-1609837159833-1609837219833" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ckp/receivedBlockMetadata/log-1609837205278-1609837265278" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/2015-03-01-11.json.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/SogouQ.sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/dmp/ip2region.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/dmp/pmt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/person.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/persons/file1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/persons/file2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/persons/file3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/rating_100k.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/rating_100k_with_head.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/ratings10/part-01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/ratings10/part-02" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/ratings10/part-03" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/ratings10/part-04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/ratings10/part-05" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/ratings10/part-06" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/ratings10/part-07" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/ratings10/part-08" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/ratings10/part-09" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/ratings10/part-10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/u.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/udf.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/users.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/input/words2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result2/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result2/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result2/.part-00001.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result2/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result2/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result2/part-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result3/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result3/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result3/.part-00001.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result3/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result3/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/output/result3/part-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/ActionOperation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/ActionOperation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/AggregateFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/AggregateFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/App.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/App.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/BasicOperation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/BasicOperation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/DepartmentAvgSalaryAndAgeStat.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/DepartmentAvgSalaryAndAgeStat.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/OtherFunction.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/OtherFunction.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/SparkSQLDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/SparkSQLDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/StructuredNetworkWordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/StructuredNetworkWordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/TypedOperation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/TypedOperation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/UntypedOperation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/UntypedOperation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/AccumulatorVariable.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/AccumulatorVariable.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/ActionOperation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/ActionOperation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/BroadcastVariable.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/BroadcastVariable.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/HDFSFile.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/HDFSFile.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/LineCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/LineCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/LocalFile.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/LocalFile.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/ParallelizeCollection.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/ParallelizeCollection.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/SecondSort.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/SecondSort.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/SecondSortKey.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/SecondSortKey.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/SortWordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/SortWordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/Top3.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/Top3.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/TransformationOperation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/TransformationOperation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/core/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/core/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/DailySale.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/DailySale.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/DailyUV.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/DailyUV.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/DataFrameCreate.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/DataFrameCreate.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/DataFrameOperation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/DataFrameOperation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/GenericLoadSave.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/GenericLoadSave.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/HiveDataSource.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/HiveDataSource.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/JSONDataSource.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/JSONDataSource.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/ManuallySpecifyOptions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/ManuallySpecifyOptions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/ParquetLoadData.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/ParquetLoadData.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/ParquetMergeSchema.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/ParquetMergeSchema.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/RDD2DataFrameProgrammatically.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/RDD2DataFrameProgrammatically.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/RDD2DataFrameReflection.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/RDD2DataFrameReflection.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/StringCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/StringCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/UDAF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/UDAF.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/sql/UDF.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/sql/UDF.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/streaming/HDFSWordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/streaming/HDFSWordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/streaming/Top3HotProduct.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/streaming/Top3HotProduct.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/streaming/TransformBlacklist.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/streaming/TransformBlacklist.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/streaming/UpdateStateByKeyWordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/streaming/UpdateStateByKeyWordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/streaming/WindowHotWord.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/streaming/WindowHotWord.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/spark/streaming/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/ibeifeng/streaming/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/cn/itcast/core/SougouSearchLogAnalysis.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/cn/itcast/core/SougouSearchLogAnalysis.scala" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../apache-maven-3.8.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="28vIji0NFWm0RNRCOMsCcK5FEpF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.55566037" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\IDEAProjects\spark-demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SougouSearchLogAnalysis">
+    <configuration name="CustomReceiverWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.spark.study.streaming.upgrade.CustomReceiverWordCount" />
+      <module name="spark-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.spark.study.streaming.upgrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlumePollWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.spark.study.streaming.upgrade.FlumePollWordCount" />
+      <module name="spark-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.spark.study.streaming.upgrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewsRealtimeStatSpark" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.spark.study.streaming.upgrade.news.NewsRealtimeStatSpark" />
+      <module name="spark-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.spark.study.streaming.upgrade.news.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SougouSearchLogAnalysis" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.core.SougouSearchLogAnalysis" />
+      <module name="spark-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.spark.study.core.upgrade.WordCount" />
+      <module name="spark-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.spark.study.core.upgrade.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SougouSearchLogAnalysis" />
+        <item itemvalue="Application.NewsRealtimeStatSpark" />
+        <item itemvalue="Application.FlumePollWordCount" />
+        <item itemvalue="Application.CustomReceiverWordCount" />
+        <item itemvalue="Application.WordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad066d18-5cf9-41ad-a24b-4968d3aee1df" name="Default Changelist" comment="" />
+      <created>1652090769993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652090769993</updated>
+      <workItem from="1652090779246" duration="237000" />
+      <workItem from="1652091031621" duration="4291000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改版本错误">
+      <created>1652094769649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652094769649</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改版本错误" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改版本错误" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="513" y="323" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1652091067443">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="513" y="323" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.816@0.0.1536.816" timestamp="1652091067443" />
+    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1652094399838">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1652094399838" />
+    <state x="388" y="86" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1652090935125">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="388" y="86" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.816@0.0.1536.816" timestamp="1652090935125" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1652095195287">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1652095195287" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1652095195287">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1652095195287" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1652095195286">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1652095195286" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1652095195287">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1652095195287" />
+    <state x="299" y="63" key="Maven.ArtifactSearchDialog" timestamp="1652091504801">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="299" y="63" key="Maven.ArtifactSearchDialog/0.0.1536.816@0.0.1536.816" timestamp="1652091504801" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1652091710250">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1652091710250" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1652094877626">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1652094877626" />
+    <state x="485" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1652090948733">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="485" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.816@0.0.1536.816" timestamp="1652090948733" />
+    <state x="468" y="111" width="600" height="594" key="find.popup" timestamp="1652092424608">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="468" y="111" width="600" height="594" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1652092424608" />
+  </component>
+</project>

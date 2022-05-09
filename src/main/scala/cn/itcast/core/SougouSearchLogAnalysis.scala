@@ -69,6 +69,7 @@ object SougouSearchLogAnalysis {
       val userId: String = record.userId
       words.map(word => (userId, word))
     })
+
     val result2: Array[((String, String), Int)] = userIdAndWordRDD
       .filter(t => !t._2.equals(".") && !t._2.equals("+"))
       .map((_, 1))
