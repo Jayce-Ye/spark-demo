@@ -28,7 +28,7 @@ object SparkStreaming_Kafka_Demo03 {
 
     //TODO 1.加载数据-从Kafka
     val kafkaParams = Map[String, Object](
-      "bootstrap.servers" -> "node1:9092", //kafka集群地址
+      "bootstrap.servers" -> "node-etl-01:9092,node-etl-02:9092,node-etl-03:9092", //kafka集群地址
       "key.deserializer" -> classOf[StringDeserializer], //key的反序列化规则
       "value.deserializer" -> classOf[StringDeserializer], //value的反序列化规则
       "group.id" -> "sparkdemo", //消费者组名称
@@ -109,7 +109,7 @@ object SparkStreaming_Kafka_Demo03 {
   object OffsetUtil {
     //1.将偏移量保存到数据库
     def saveOffsetRanges(groupid: String, offsetRange: Array[OffsetRange]) = {
-      val connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/bigdata?characterEncoding=UTF-8", "root", "root")
+      val connection = DriverManager.getConnection("jdbc:mysql://node-etl-01:3306/bigdata?characterEncoding=UTF-8", "root", "12345678")
       //replace into表示之前有就替换,没有就插入
       val ps = connection.prepareStatement("replace into t_offset (`topic`, `partition`, `groupid`, `offset`) values(?,?,?,?)")
       for (o <- offsetRange) {
@@ -125,7 +125,7 @@ object SparkStreaming_Kafka_Demo03 {
 
     //2.从数据库读取偏移量Map(主题分区,offset)
     def getOffsetMap(groupid: String, topic: String) = {
-      val connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/bigdata?characterEncoding=UTF-8", "root", "root")
+      val connection = DriverManager.getConnection("jdbc:mysql://node-etl-01:3306/bigdata?characterEncoding=UTF-8", "root", "12345678")
       val ps = connection.prepareStatement("select * from t_offset where groupid=? and topic=?")
       ps.setString(1, groupid)
       ps.setString(2, topic)

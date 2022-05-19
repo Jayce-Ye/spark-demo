@@ -68,7 +68,8 @@ object Demo07_MovieDataAnalysis {
       .agg(
         avg('score) as "avgscore",
         count("movieId") as "counts"
-      ).filter('counts > 200)
+      )
+      .filter('counts > 200)
       .orderBy('avgscore.desc)
       .limit(10)
       .show()

@@ -23,7 +23,7 @@ object WordCount06 {
     val ssc: StreamingContext = new StreamingContext(sc,Seconds(5))//每隔5s划分一个批次
 
     //TODO 1.加载数据
-    val lines: ReceiverInputDStream[String] = ssc.socketTextStream("node1",9999)
+    val lines: ReceiverInputDStream[String] = ssc.socketTextStream("node-etl-01",9999)
 
     //TODO 2.处理数据
     val resultDS: DStream[(String, Int)] = lines.flatMap(_.split(" "))
@@ -67,7 +67,7 @@ CREATE TABLE `t_hotwords` (
        */
       rdd.foreachPartition(iter=>{
         //开启连接
-        val conn: Connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/bigdata?characterEncoding=UTF-8","root","root")
+        val conn: Connection = DriverManager.getConnection("jdbc:mysql://node-etl-01:3306/bigdata?characterEncoding=UTF-8","root","12345678")
         val sql:String = "INSERT INTO `t_hotwords` (`time`, `word`, `count`) VALUES (?, ?, ?);"
         val ps: PreparedStatement = conn.prepareStatement(sql)
         iter.foreach(t=>{

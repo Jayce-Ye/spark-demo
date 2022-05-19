@@ -31,7 +31,7 @@ object WordCount03 {
     //currentValues:表示该key(如:spark)的当前批次的值,如:[1,1]
     //historyValue:表示该key(如:spark)的历史值,第一次是0,后面就是之前的累加值如1
     val updateFunc = (currentValues: Seq[Int], historyValue: Option[Int]) => {
-      if (currentValues.size > 0) {
+      if (currentValues.nonEmpty) {
         val currentResult: Int = currentValues.sum + historyValue.getOrElse(0)
         Some(currentResult)
       } else {

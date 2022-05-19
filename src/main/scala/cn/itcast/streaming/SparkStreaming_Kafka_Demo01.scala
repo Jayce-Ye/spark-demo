@@ -23,7 +23,7 @@ object SparkStreaming_Kafka_Demo01 {
 
     //TODO 1.加载数据-从Kafka
     val kafkaParams = Map[String, Object](
-      "bootstrap.servers" -> "node1:9092",//kafka集群地址
+      "bootstrap.servers" -> "node-etl-01:9092,node-etl-02:9092,node-etl-03:9092",//kafka集群地址
       "key.deserializer" -> classOf[StringDeserializer],//key的反序列化规则
       "value.deserializer" -> classOf[StringDeserializer],//value的反序列化规则
       "group.id" -> "sparkdemo",//消费者组名称

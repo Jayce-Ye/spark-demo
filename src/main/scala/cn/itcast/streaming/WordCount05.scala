@@ -20,7 +20,7 @@ object WordCount05 {
     val ssc: StreamingContext = new StreamingContext(sc,Seconds(5))//每隔5s划分一个批次
 
     //TODO 1.加载数据
-    val lines: ReceiverInputDStream[String] = ssc.socketTextStream("node1",9999)
+    val lines: ReceiverInputDStream[String] = ssc.socketTextStream("node-elt-01",9999)
 
     //TODO 2.处理数据
     val resultDS: DStream[(String, Int)] = lines.flatMap(_.split(" "))
